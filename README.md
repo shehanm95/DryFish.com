@@ -1,7 +1,3 @@
-Here’s a sample `README.md` document for your project:
-
----
-
 # Dry Fish E-Commerce Store
 
 A sample e-commerce website for a Dry Fish store. This project showcases an online store for selling dry fish, allowing users to browse products, view product details, add items to the cart, and proceed to checkout.
